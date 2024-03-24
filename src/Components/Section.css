@@ -1,0 +1,13 @@
+.Section{
+    height: 190vh;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+@media screen and (max-width:767px){
+    .Section{
+        height: 270vh;
+        margin-top: 20px;
+       margin-bottom: 20px;
+     
+    }
+}
