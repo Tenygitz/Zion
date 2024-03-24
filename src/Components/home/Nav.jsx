@@ -8,7 +8,7 @@ function Nav() {
 
   const handleClick = (id) => {
     setActiveAnchor(id);
-    console.log("cc",activeAnchor )
+    console.log("active",activeAnchor )
   };
   return (
     <div className='Nav'>
