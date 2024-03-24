@@ -4,7 +4,7 @@ import "./Nav.css"
 import SideBar from '../SideBar';
 
 function Nav() {
-  const [activeAnchor, setActiveAnchor] = useState("Home");
+  const [activeAnchor, setActiveAnchor] = useState("Homepage");
 
   const handleClick = (id) => {
     setActiveAnchor(id);
