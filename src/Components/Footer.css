@@ -4,6 +4,13 @@
    height: 400px;
 
 }
+@media screen and (max-width:767px){
+    .location{
+       
+        height: 250px;
+     
+     }
+}
 .location>iframe{
     left:0;
     top:0;
