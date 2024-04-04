@@ -7,7 +7,7 @@
 @media screen and (max-width:767px){
     .location{
        
-        height: 250px;
+        height: 300px;
      
      }
 }
@@ -26,12 +26,10 @@
     justify-content: space-between;
     color: aliceblue;
     padding: 10px;
+    background-color: black;
 }
 @media screen and (max-width:767px){
     .footerEnd{
-        display: flex;
-        justify-content: space-between;
-        color: aliceblue;
         padding: 10px;
         margin-bottom: 10px;
     }
